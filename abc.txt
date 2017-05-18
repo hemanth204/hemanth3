@@ -1,2 +1,2 @@
 edited file from remote
-
+using fetch operation
