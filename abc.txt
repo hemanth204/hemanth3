@@ -2,3 +2,4 @@ edited file from remote
 using fetch operation
 with new branch bug
 pull request
+adding release
