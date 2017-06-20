@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-20 14:07:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>002db290db27320098b6de90cf961997</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_69202_g_regiatration</sys_name>
